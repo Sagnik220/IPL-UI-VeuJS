@@ -1,6 +1,6 @@
-# ipl
+# UI Design 
 
-## Project setup
+### Project setup
 ```
 npm install
 ```
