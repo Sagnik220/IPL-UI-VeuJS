@@ -1,16 +1,18 @@
 <template>
   <div id="app">
-    <img alt="ipl" src="D:\GitRepo\UIDesign\ipl\src\assets\ipl.jpg">
+    <header>
+      <Navbar/>
+    </header>
   </div>
 </template>
 
 <script>
-
+import Navbar from './components/Navbar'
 
 export default {
   name: 'App',
   components: {
- 
+      Navbar
   }
 }
 </script>
@@ -22,7 +24,12 @@ export default {
     padding:0;
 }
 body{
-  font-family: Arial, Helvetica, sans-serif;
-  line-height: 1.5;
+  font-family: 'monstserrat', sans-serif;
+}
+
+header{
+  width: 100ww;
+  background-color:#222;
+  padding:15px;
 }
 </style>
