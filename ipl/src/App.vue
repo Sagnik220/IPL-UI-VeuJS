@@ -3,6 +3,7 @@
     <header>
       <Navbar />
     </header>
+    <p><img src="./assets/ipl.jpg" width="1950" height="550" /></p>
   </div>
 </template>
 

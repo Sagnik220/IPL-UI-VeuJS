@@ -19,15 +19,15 @@ export default {
       Teams: [
         {
           title: 'CSK',
-          link: '#'
-        },
-        {
-          title: 'DC',
           link:'#'
         },
         {
-          title: 'KKR',
+          title: 'DC',
           link: '#'
+        },
+        {
+            title:'KKR',
+            link: '#'
         },
         {
           title: 'KXIP',
